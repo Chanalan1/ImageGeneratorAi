@@ -9,7 +9,7 @@ Step 1: go to root folder and type into the command/terminal npm init -y (initia
 <br />
 Step 2: npm install express --save (to install the package dependecy for express)
 <br />
-Step 3: use hte server.js file and change port if you want 
+Step 3: use the server.js file and change port if you want 
 <br />
 Step 4: type into terminal node server.js to run the program and by default you can find the server starting on: http://localhost:3000
 <br />
